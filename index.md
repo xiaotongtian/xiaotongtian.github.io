@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+###个人信息
+####姓名：tonia 
+####性别：女
+####电话：18035472180
+####邮箱：18035472180@163.com
+###所获荣誉
+####校一等奖学金
+####校园风采大赛一等奖
+
+
 
 You can use the [editor on GitHub](https://github.com/xiaotongtian/xiaotongtian.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
